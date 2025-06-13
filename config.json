@@ -30,5 +30,6 @@
     },
     "schema": {
       "server": "url"
-    }
+    },
+    "image": "marcogos/{arch}-addon-esphome"
 }
